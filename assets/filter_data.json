@@ -1,0 +1,419 @@
+{
+
+  "filtercategory":
+  [
+    {
+      "title": "B&W",
+      "thumbimagepath": "assets://filter/icon/filter_bnw.png",
+      "B&W":
+      [
+        {
+          "id": 0,
+          "title": "Normal",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "",
+          "isfree": true
+        },
+        {
+          "id": 1,
+          "title": "B1",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/bw/Kopan_map.png,G",
+          "isfree": true
+        },
+        {
+          "id": 2,
+          "title": "B2",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/bw/Glacial1.png,G",
+          "isfree": true
+        },
+        {
+          "id": 3,
+          "title": "B3",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/bw/tonemap.png,G",
+          "isfree": true
+        },
+        {
+          "id": 4,
+          "title": "B4",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/bw/gingham_curves1.png,G",
+          "isfree": false
+        },
+        {
+          "id": 5,
+          "title": "B5",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/bw/selium_willowMap.png,G",
+          "isfree": false
+        },
+        {
+          "id": 6,
+          "title": "B6",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/bw/levels.png,G",
+          "isfree": false
+        },
+        {
+          "id": 7,
+          "title": "B7",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/bw/charmes_map.png,G",
+          "isfree": false
+        },
+        {
+          "id": 8,
+          "title": "B8",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/bw/BWRetro.acv,G",
+          "isfree": false
+        },
+        {
+          "id": 9,
+          "title": "B9",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/bw/ginza_curves1.png,G",
+          "isfree": false
+        }
+      ]
+    },
+    {
+      "title": "Classic",
+      "thumbimagepath": "assets://filter/icon/filter_classic.png",
+      "Classic":
+      [
+        {
+          "id": 0,
+          "title": "Normal",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "",
+          "isfree": true
+        },
+        {
+          "id": 1,
+          "title": "C1",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/classic/alone_map.png",
+          "isfree": true
+        },
+        {
+          "id": 2,
+          "title": "C2",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/classic/drama_blowout_map.png",
+          "isfree": true
+        },
+        {
+          "id": 3,
+          "title": "C3",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/classic/drama_luma_map.png",
+          "isfree": false
+        },
+        {
+          "id": 4,
+          "title": "C4",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/classic/drama_map.png",
+          "isfree": false
+        },
+        {
+          "id": 5,
+          "title": "C5",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/classic/fade_map.png",
+          "isfree": false
+        },
+        {
+          "id": 6,
+          "title": "C6",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/classic/gloss_map.png",
+          "isfree": false
+        },
+        {
+          "id": 7,
+          "title": "C7",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/classic/Icy_map.png",
+          "isfree": false
+        },
+        {
+          "id": 8,
+          "title": "C8",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/classic/listless_map.png",
+          "isfree": false
+        },
+        {
+          "id": 9,
+          "title": "C9",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/classic/mild_map.png",
+          "isfree": false
+        }
+      ]
+    },
+    {
+      "title": "Season",
+      "thumbimagepath": "assets://filter/icon/filter_season.png",
+      "Season":
+      [
+        {
+          "id": 0,
+          "title": "Normal",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "",
+          "isfree": true
+        },
+        {
+          "id": 1,
+          "title": "S1",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/season/autumn_dawood_hamada.acv",
+          "isfree": false
+        },
+        {
+          "id": 2,
+          "title": "S2",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/season/summer_classic_1.acv",
+          "isfree": false
+        },
+        {
+          "id": 3,
+          "title": "S3",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/season/summer_classic_2.acv",
+          "isfree": false
+        },
+        {
+          "id": 4,
+          "title": "S4",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/season/winter_iced.acv",
+          "isfree": false
+        },
+        {
+          "id": 5,
+          "title": "S5",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/season/winter_soft_brown.acv",
+          "isfree": false
+        }
+      ]
+    },
+    {
+      "title": "Film",
+      "thumbimagepath": "assets://filter/icon/filter_film.png",
+      "Film":
+      [
+        {
+          "id": 0,
+          "title": "Normal",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "",
+          "isfree": true
+        },
+        {
+          "id": 1,
+          "title": "Fm1",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/film/film_3.acv",
+          "isfree": true
+        },
+        {
+          "id": 2,
+          "title": "Fm2",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/film/film_16.acv",
+          "isfree": true
+        },
+        {
+          "id": 3,
+          "title": "Fm3",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/film/film_18.acv",
+          "isfree": true
+        },
+        {
+          "id": 4,
+          "title": "Fm4",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/film/film_b_vol_1.acv",
+          "isfree": false
+        },
+        {
+          "id": 5,
+          "title": "Fm5",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/film/film_b_vol_2.acv",
+          "isfree": false
+        },
+        {
+          "id": 6,
+          "title": "Fm6",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/film/film_carina.acv",
+          "isfree": false
+        },
+        {
+          "id": 7,
+          "title": "Fm7",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/film/film_classic_blue.acv",
+          "isfree": false
+        },
+        {
+          "id": 8,
+          "title": "Fm8",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/film/film_cool_breeze.acv",
+          "isfree": false
+        },
+        {
+          "id": 9,
+          "title": "Fm9",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/film/film_cooler.acv",
+          "isfree": false
+        },
+        {
+          "id": 10,
+          "title": "Fm10",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/film/film_cp_12.acv",
+          "isfree": false
+        },
+        {
+          "id": 11,
+          "title": "Fm11",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/film/film_free_spirit_1.acv",
+          "isfree": false
+        },
+        {
+          "id": 12,
+          "title": "Fm12",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/film/film_free_spirit_2.acv",
+          "isfree": false
+        }
+      ]
+    },
+    {
+      "title": "Vintage",
+      "thumbimagepath": "assets://filter/icon/filter_vintage.png",
+      "Vintage":
+      [
+        {
+          "id": 0,
+          "title": "Normal",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "",
+          "isfree": true
+        },
+        {
+          "id": 1,
+          "title": "V1",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/vintage/vintage_weson_curves_map.png",
+          "isfree": true
+        },
+        {
+          "id": 2,
+          "title": "V2",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/vintage/vintage_weson_blowout_map.png",
+          "isfree": false
+        },
+        {
+          "id": 3,
+          "title": "V3",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/vintage/vintage_made_simple_2.acv",
+          "isfree": false
+        },
+        {
+          "id": 4,
+          "title": "V4",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/vintage/vintage_lethe_map.png",
+          "isfree": false
+        },
+        {
+          "id": 5,
+          "title": "V5",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/vintage/vintage_made_simple_1.acv",
+          "isfree": false
+        },
+        {
+          "id": 6,
+          "title": "V6",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/vintage/vintage_weson_overlay_map.png",
+          "isfree": false
+        }
+      ]
+    },
+    {
+      "title": "Fade",
+      "thumbimagepath": "assets://filter/icon/filter_fade.png",
+      "Fade":
+      [
+        {
+          "id": 0,
+          "title": "Normal",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "",
+          "isfree": true
+        },
+        {
+          "id": 1,
+          "title": "F1",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "L1 assets://filter/fade/fade_map.png",
+          "isfree": true
+        },
+        {
+          "id": 2,
+          "title": "F2",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/fade/fade_beautifully.acv",
+          "isfree": true
+        },
+        {
+          "id": 3,
+          "title": "F3",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/fade/fade_everyday.acv",
+          "isfree": false
+        },
+        {
+          "id": 4,
+          "title": "F4",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/fade/fade_lime.acv",
+          "isfree": false
+        },
+        {
+          "id": 5,
+          "title": "F5",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/fade/fade_retro.acv",
+          "isfree": false
+        },
+        {
+          "id": 6,
+          "title": "F6",
+          "thumbimagepath": "assets://images/filter_ic_time.png",
+          "filterCommand": "T assets://filter/fade/fade_white_wash.acv",
+          "isfree": false
+        }
+      ]
+    }
+  ]
+}

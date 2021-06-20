@@ -1,0 +1,55 @@
+{
+  "enahnceitems":
+  [
+    {
+      "id": 0,
+      "title": "Brightness",
+      "imagepath": "brightness"
+    },
+    {
+      "id": 1,
+      "title": "Contrast",
+      "imagepath": "contrast"
+    },
+    {
+      "id": 2,
+      "title": "Saturation",
+      "imagepath": "saturation"
+    },
+    {
+      "id": 3,
+      "title": "Hue",
+      "imagepath": "hue"
+    },
+    {
+      "id": 4,
+      "title": "Temperature",
+      "imagepath": "temperature"
+    },
+    {
+      "id": 5,
+      "title": "Tint",
+      "imagepath": "tint"
+    },
+    {
+      "id": 6,
+      "title": "Highlight",
+      "imagepath": "highlight"
+    },
+    {
+      "id": 7,
+      "title": "Shadow",
+      "imagepath": "shadow"
+    },
+    {
+      "id": 8,
+      "title": "Gamma",
+      "imagepath": "gamma"
+    },
+    {
+      "id": 9,
+      "title": "Sepia",
+      "imagepath": "sepia"
+    }
+  ]
+}
